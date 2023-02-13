@@ -11,18 +11,18 @@
 <hr>
 <br>
 
-![Screenshot](CHALK (2).PNG)
-![Screenshot]()
+![Screenshot](chalk.png)
+![Screenshot](challk.png)
 
 <h3>Readline-sync:  </h3>
 <hr>
 
-![Screenshot](img/readline.png)
+![Screenshot](readlinie.png)
 
 <h2>🔠Node.js</h2>
 <h4>Através do Node.js é realizado a contrução do código que recebe uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e devolve essa lista ordenada de A-Z.</h4>
 
-![Screenshot](img/prompt.png)
+![Screenshot](prompt.PNG)
 
 <h3> <b>Para instalar as dependências<b>  </h3>
   <br>
